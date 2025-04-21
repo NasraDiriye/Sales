@@ -14,7 +14,8 @@ This Power BI project aims to transform static sales reports into dynamic, visua
   - Excel Budget Data for 2025
   
   - AdventureWorks2022 dataset
-Dateset can be found here ---> https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms
+  
+  Dataset can be found here ---> https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms
 
 ### 📌 Business Needs
 
